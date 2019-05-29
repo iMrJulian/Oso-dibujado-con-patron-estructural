@@ -1,0 +1,1 @@
+# Oso-dibujado-con-patron-estructural
